@@ -28,7 +28,7 @@ La idea fue tener tres actividades en paralelo:
 * Diego Acosta ([@acostami](https://github.com/acostami))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))
 * Juan Carlos Quintero ([@juancarlosqr](https://github.com/juancarlosqr))
-* Marcelo Dominguez ([@marpo60](@https://github.com/marpo60))
+* Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
 * Marcelo Ramos ([@marcelor](https://github.com/marcelor))
 * Marcos Bellucci ([@delbetu](https://github.com/delbetu))
 * Mauricio Mena ([@lvlauricio](https://github.com/lvl4ul2i))
