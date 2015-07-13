@@ -18,6 +18,7 @@ La idea fue tener tres actividades en paralelo:
 * Aplicación construida durante el meetup [reading-list](https://github.com/ember-montevideo/reading-list)
 * [Proyecto `ten`](https://github.com/san650/ten): Learn how to build web applications by doing
 * [Liquid Fire](http://ef4.github.io/liquid-fire/) Animaciones para Ember
+* Aplicación que construimos con los ejemplos de liquid fire [ember-meetups](https://github.com/ember-montevideo/ember-meetups)
 * Proyecto [Electron](http://electron.atom.io/)
 * Proyecto [ember-electron](https://github.com/usecanvas/ember-electron)
 
