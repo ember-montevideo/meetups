@@ -10,7 +10,7 @@
 
 La idea fue mirar algunos ejemplos de aplicaciones y profundizar en algún tema
 
-* Miramos una aplicación de resultados de partidos de fútbol construida por
+* Miramos [ember-league](https://github.com/lvl4ul2i/ember-league) una aplicación de resultados de partidos de fútbol construida por
   Mauricio - Mauricio
 * Miramos un ejemplo de como integrar WikiData creando un adaptador y
   serializador en
@@ -20,6 +20,7 @@ La idea fue mirar algunos ejemplos de aplicaciones y profundizar en algún tema
 
 ## Recursos
 
+* [ember-league](https://github.com/lvl4ul2i/ember-league)
 * [Ember.Service](http://guides.emberjs.com/v2.0.0/services/)
 * Aplicación construida durante el meetup
   [reading-list](https://github.com/ember-montevideo/reading-list)
