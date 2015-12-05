@@ -52,5 +52,5 @@ Fleitas que nos compartieron materiales (HTML, CSS, imágenes y tipografías) pa
 una de las actividades. Por si están interesados, Irán tiene un [proyecto
 similar](https://github.com/iranreyes/spotyngular) con Angular.
 
-Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos le lugar e
+Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.

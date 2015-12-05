@@ -45,5 +45,5 @@ varios desafíos interesantes.
 
 ## Agradecimiento
 
-Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos le lugar e
+Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.
