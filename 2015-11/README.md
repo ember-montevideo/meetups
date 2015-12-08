@@ -41,7 +41,7 @@ varios desafíos interesantes.
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Nicolás Barrera ([@drummerhead](https://github.com/drummerhead))
 * Santiago Ferreira ([@san650](https://github.com/san650))
-* XXXX
+* Mauricio Coniglio ([@mconiglio](https://github.com/mconiglio))
 
 ## Agradecimiento
 
