@@ -1,6 +1,6 @@
-# Noviembre de 2015
+# Diciembre de 2015
 
-* Fecha: 19 de noviembre de 2015
+* Fecha: 19 de diciembre de 2015
 * Hora: de 19:30 a 22:00
 * Participantes: 10
 
