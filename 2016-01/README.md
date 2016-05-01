@@ -4,7 +4,7 @@
 * Hora: de 19:30 a 22:00
 * Participantes: 10
 
-![Foto](./photo.jpg)
+![Foto](./photo.png)
 
 ## Actividades
 
