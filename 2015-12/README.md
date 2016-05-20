@@ -26,7 +26,7 @@ JavaScript.
 
 * Adrián Mugnolo ([@xymbol](https://github.com/xymbol))
 * Daniel Gomez ([@eldano](https://github.com/eldano))
-* Fabián XXXX
+* Fabian Silva ([@silvafab](https://github.com/silvafab))
 * Gustavo Sequeira ([@tavofigse](https://github.com/tavofigse))
 * Julio Barrios ([@jubar](https://github.com/jubar))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
