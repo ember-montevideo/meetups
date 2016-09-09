@@ -1,4 +1,4 @@
-# Agosto de 2016
+# Septiembre de 2016
 
 * Fecha: 9 de septiembre de 2016
 * Hora: de 19:30 a 22:00
