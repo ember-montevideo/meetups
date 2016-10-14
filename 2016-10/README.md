@@ -20,6 +20,8 @@
 * [filp-the-tomster github](https://github.com/hidnasio/flip-the-tomster)
 * [Flip The Tomster](http://www.flipthetomster.com/)
 * [telling-stories addon](https://github.com/mvdwg/telling-stories)
+* [Create react app hello world (github)](https://github.com/pepesenaris/hello-world)
+* [create-react-app scaffold](https://github.com/facebookincubator/create-react-app)
 
 ### Novedades
 
