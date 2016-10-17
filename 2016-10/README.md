@@ -23,6 +23,7 @@
 * [Create react app hello world (github)](https://github.com/pepesenaris/hello-world)
 * [create-react-app scaffold](https://github.com/facebookincubator/create-react-app)
 * [Demo de async-away](https://github.com/ercpereda/bing-image-of-the-day)
+* [ember-sokoban](https://github.com/san650/ember-sokoban)
 
 ### Novedades
 
