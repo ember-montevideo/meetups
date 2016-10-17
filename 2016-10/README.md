@@ -90,7 +90,7 @@
 
 * Adrián Mugnolo ([@xymbol](https://github.com/xymbol))
 * Daniel Gomez de Souza ([@eldano](https://github.com/eldano))
-* Ernesto Cruz
+* Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Gustavo Sequeira ([@tavofigse](https://github.com/tavofigse))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))

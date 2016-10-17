@@ -65,7 +65,7 @@ Foto TBA
 * Adrián Mugnolo ([@xymbol](https://github.com/xymbol))
 * Diego Acosta ([@acostami](https://github.com/acostami))
 * Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
-* Ernesto Cruz
+* Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Fabián Rodriguez ([@fabianrbz](https://github.com/fabianrbz))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))

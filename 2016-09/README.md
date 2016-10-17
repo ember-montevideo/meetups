@@ -96,7 +96,7 @@
 
 * Daniel Gomez de Souza ([@eldano](https://github.com/eldano))
 * Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
-* Ernesto Cruz
+* Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
