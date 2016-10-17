@@ -22,6 +22,7 @@
 * [telling-stories addon](https://github.com/mvdwg/telling-stories)
 * [Create react app hello world (github)](https://github.com/pepesenaris/hello-world)
 * [create-react-app scaffold](https://github.com/facebookincubator/create-react-app)
+* [Demo de async-away](https://github.com/ercpereda/bing-image-of-the-day)
 
 ### Novedades
 
