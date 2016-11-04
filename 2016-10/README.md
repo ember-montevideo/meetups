@@ -17,6 +17,7 @@
 ### Recursos
 
 * [ember-let](https://github.com/thefrontside/ember-let)
+* [ember-let example](https://github.com/ember-montevideo/ember-let-example)
 * [filp-the-tomster github](https://github.com/hidnasio/flip-the-tomster)
 * [Flip The Tomster](http://www.flipthetomster.com/)
 * [telling-stories addon](https://github.com/mvdwg/telling-stories)
@@ -99,6 +100,7 @@
 * Pablo Suarez ([@PabloSuarez](https://github.com/PabloSuarez))
 * Samanta de Barros ([@sdebarros](https://github.com/sdebarros))
 * Santiago Ferreira ([@san650](https://github.com/san650))
+* Gustavo Villa ([@gfvcastro](https://github.com/gfvcastro))
 
 ## Agradecimiento
 
