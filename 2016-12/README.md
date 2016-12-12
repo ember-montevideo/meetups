@@ -1,4 +1,4 @@
-# Noviembre de 2016
+# Diciembre de 2016
 
 * Fecha: 08 de diciembre de 2016
 * Hora: de 19:30 a 22:00
