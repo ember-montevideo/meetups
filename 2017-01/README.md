@@ -2,11 +2,24 @@
 
 * Fecha: 12 de enero de 2017
 * Hora: de 19:30 a 22:00
-* Participantes: X
+* Participantes: 11
+
+![photo](./photo.jpg)
 
 ## Actividades
 
+* ember-service-worker-race - Federico
+* ember-simon - Julio
+* Whitespace: A different approach to javascript obfuscation - Marcelo
+* move-the-boxes - Santiago
+
 ### Recursos
+
+* [ember-service-worker-race repo](https://github.com/fedekau/ember-service-worker-race)
+* [ember-simon repo](https://github.com/jubar/ember-simon)
+* [DEFCON - Whitespace: A different approach to javascript obfuscation](http://www.securitytube.net/video/3670)
+* [Move The Boxes game](http://move-the-boxes.pagefrontapp.com/)
+* [move-the-boxes repo](https://github.com/san650/move-the-boxes)
 
 ### Novedades
 
@@ -51,18 +64,17 @@
 
 ## Participantes
 
-* Santiago Ferreira ([@san650](https://github.com/san650))
-* Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
-* Julio Barrios ([@jubar](https://github.com/jubar))
-* Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
 * Adrián Mugnolo ([@xymbol](https://github.com/xymbol))
-* Federico Kauffman ([@fedekau](https://github.com/fedekau))
-* Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
-* Juan Azambuja ([@juanazam](https://github.com/juanazam))
-* Laura Santana Nuñez
-* Gustavo Villa ([@gfvcastro](https://github.com/gfvcastro))
-* Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
+* Fabián Larrañaga ([@FLarra](https://github.com/FLarra))
+* Federico Kauffman ([@fedekau](https://github.com/fedekau))
+* Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
+* Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
+* Julio Barrios ([@jubar](https://github.com/jubar))
+* Laura Santana Nuñez
+* Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
+* Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
+* Santiago Ferreira ([@san650](https://github.com/san650))
 
 ## Agradecimiento
 
