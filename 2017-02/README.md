@@ -108,7 +108,7 @@
 * Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
-* Gabriel Camargo
+* Gabriel Camargo ([@gab-cam](https://github.com/gab-cam))
 * Gabriel Chertok ([@cherta](https://github.com/cherta))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Julio Barrios ([@jubar](https://github.com/jubar))
