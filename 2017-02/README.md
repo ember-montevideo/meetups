@@ -19,6 +19,7 @@
 * [Mirage 0.3.0 beta series](http://www.ember-cli-mirage.com/blog/2017/01/09/0-3-0-beta-series/)
 * [ember-collection demo by Julio Barrios](https://github.com/jubar/ember-collection-demo)
 * [telling-stories ember addon](https://github.com/mvdwg/telling-stories)
+* [ember-service-worker ember addon](http://ember-service-worker.com/)
 
 ### Novedades
 
