@@ -101,7 +101,7 @@
 * Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Julio Barrios ([@jubar](https://github.com/jubar))
-* Laura Santana Nuñez
+* Laura Santana Nuñez ([@laurasantana](https://github.com/laurasantana))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
 * Samanta de Barros ([@sdebarros](https://github.com/sdebarros))
