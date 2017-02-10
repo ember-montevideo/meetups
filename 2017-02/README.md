@@ -104,7 +104,7 @@
 
 ## Participantes
 
-* Eloísa da Silva
+* Eloísa da Silva ([@edasilva](https://github.com/edasilva))
 * Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
