@@ -95,7 +95,7 @@
 * Gustavo Sequeira ([@tavofigse](https://github.com/tavofigse))
 * Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))
-* Laura Santana Nuñez
+* Laura Santana Nuñez ([@laurasantana](https://github.com/laurasantana))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Pablo Suarez ([@PabloSuarez](https://github.com/PabloSuarez))
 * Samanta de Barros ([@sdebarros](https://github.com/sdebarros))
