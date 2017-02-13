@@ -1,6 +1,6 @@
-# Febreo 2017
+# Febrero 2017
 
-* Fecha: 12 de febrero de 2017
+* Fecha: 9 de febrero de 2017
 * Hora: de 19:30 a 22:00
 * Participantes: 12
 
