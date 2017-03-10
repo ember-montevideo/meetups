@@ -122,4 +122,4 @@
 Agradecemos a [Ingenious Softworks](http://www.ingsw.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.
 
-Agradecemos a [WyeWorks](https://wyeworks.com/) por apoyarnos como sponsors.
+Agradecemos a [WyeWorks](https://wyeworks.com/) por apoyarnos como sponsor.
