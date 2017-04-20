@@ -11,7 +11,7 @@
 * Lo nuevo de ember-cli-mirage v0.3.0 - Luis Ferreira
 * Service Workers y ember-cli-service-workers overview - Samanta de Barros
 * Background syncing with ember-service-worker - Federico Kauffman
-* telling-status ember addon status and demo - Santiago Ferreira
+* telling-stories ember addon status and demo - Santiago Ferreira
 * ember-collection overview - Julio Barrios
 
 ### Recursos
