@@ -8,6 +8,7 @@
 
 * Ember Montevideo App - Julio Barrios
 * ☀️.js.uy - Santiago Ferreira
+* Building js.uy site - Gabriel Chertok 
 * Latest ember news - Luis Ferreira
 * Static site hostings - Marcelo Dominguez
 * WYSIWYG catarsis - Federico Kauffman
