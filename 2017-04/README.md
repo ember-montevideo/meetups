@@ -2,16 +2,15 @@
 
 * Fecha: 18 de Abril de 2017
 * Hora: de 19:30 a 22:00
-* Participantes: XX 
-
-![photo](./photo.jpg)
+* Participantes: 12
 
 ## Actividades
 
 * Ember Montevideo App - Julio Barrios
-* HTTP Security Headers - Santiago Ferreira
 * ☀️.js.uy - Santiago Ferreira
 * Latest ember news - Luis Ferreira
+* Static site hostings - Marcelo Dominguez
+* WYSIWYG catarsis - Federico Kauffman
 
 ### Recursos
 
@@ -89,13 +88,14 @@
 
 ## Participantes
 
-* Eloísa da Silva ([@edasilva](https://github.com/edasilva))
+* Daniel Gomez ([@eldano](https://github.com/eldano))
+* Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Gabriel Chertok ([@cherta](https://github.com/cherta))
-* Humberto Llauradó Falcó
-* Juan Azambuja ([@juanazam](https://github.com/juanazam))
+* Jose Javier Señaris Carballo ([@pepesenaris](https://github.com/pepesenaris))
 * Julio Barrios ([@jubar](https://github.com/jubar))
+* Laura Santana Nuñez ([@laurasantana](https://github.com/laurasantana))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
 * Samanta de Barros ([@sdebarros](https://github.com/sdebarros))
