@@ -10,7 +10,7 @@
 
 * Ember Montevideo App - Julio Barrios
 * ☀️.js.uy - Santiago Ferreira
-* Building js.uy site - Gabriel Chertok 
+* Meetup Calendar in React - Gabriel Chertok 
 * Latest ember news - Luis Ferreira
 * Static site hostings - Marcelo Dominguez
 * WYSIWYG catarsis - Federico Kauffman
@@ -18,6 +18,7 @@
 ### Recursos
 
 * [Ember Montevideo App](https://github.com/jubar/ember-montevideo-app)
+* [Meetup Calendar](https://github.com/js-uy/calendar)
 
 ### Novedades
 
