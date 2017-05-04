@@ -37,7 +37,7 @@ Ambas actividades fueron presentadas por Santiago.
 * Nicolás Barrera ([@drummerhead](https://github.com/drummerhead))
 * Santiago Ferreira ([@san650](https://github.com/san650))
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.

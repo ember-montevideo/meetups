@@ -36,7 +36,7 @@ La idea fue tener tres actividades en paralelo:
 * Santiago Bartesaghi ([@santib](https://github.com/santib))
 * Santiago Ferreira ([@san650](https://github.com/san650))
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.
