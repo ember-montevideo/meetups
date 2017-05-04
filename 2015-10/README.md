@@ -44,7 +44,7 @@ desarrollo web y un nivel principiante de JavaScript.
 * Nicolás Barrera ([@drummerhead](https://github.com/drummerhead))
 * XXXX
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a la gente del meetup de [Angular
 Montevideo](http://www.meetup.com/Angular-MVD/) y en especial a Irán Reyes

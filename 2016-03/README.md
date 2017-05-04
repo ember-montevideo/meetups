@@ -29,7 +29,7 @@ mostró luego se extrajo a un addon de ember-cli.
 * Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
 * Sebastian Barcelona ([@sbarcelona11](https://github.com/sbarcelona11))
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.

@@ -27,7 +27,7 @@ del workshop de la JSConf 2015.
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Santiago Ferreira ([@san650](https://github.com/san650))
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [WyeWorks](https://wyeworks.com/) por brindarnos el lugar e
 invitarnos las bebidas, los snacks y la cena.
