@@ -28,6 +28,6 @@
 
 <%= attendees %>
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [<%= venue %>](http://example.com/) por brindarnos el lugar e invitarnos las bebidas, los snacks y la cena.
