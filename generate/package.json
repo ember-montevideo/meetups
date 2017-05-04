@@ -1,0 +1,14 @@
+{
+  "name": "generate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrián Mugnolo",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "moment-timezone": "^0.5.13",
+    "nopt": "^4.0.1",
+    "request": "^2.81.0"
+  }
+}

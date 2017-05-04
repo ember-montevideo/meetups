@@ -1,0 +1,33 @@
+# <%= name %>
+
+* Fecha: <%= date %>
+* Hora: de <%= from %> a <%= to %>
+* Participantes: <%= count %>
+
+![photo](./photo.jpg)
+
+## Actividades
+
+* ...
+* ...
+* ...
+
+### Recursos
+
+* ...
+* ...
+* ...
+
+### Novedades
+
+* ...
+* ...
+* ...
+
+## Participantes
+
+<%= attendees %>
+
+## Agradecimiento
+
+Agradecemos a [<%= venue %>](http://example.com/) por brindarnos el lugar e invitarnos las bebidas, los snacks y la cena.
