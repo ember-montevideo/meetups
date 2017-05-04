@@ -37,6 +37,6 @@
 * Santiago Ferreira
 * gusgard
 
-## Agradecimiento
+## Agradecimientos
 
 Agradecemos a [WyeWorks](http://example.com/) por brindarnos el lugar e invitarnos las bebidas, los snacks y la cena.
