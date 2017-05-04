@@ -24,8 +24,8 @@ Algunos links útiles:
 * [Octubre](2016-10/README.md)
 * [Septiembre](2016-09/README.md)
 * [Agosto](2016-08/README.md)
-* Julio
-* Junio
+* [Julio](2016-07/README.md)
+* [Junio](2016-06/README.md)
 * [Mayo](2016-05/README.md)
 * [Abril](2016-04/README.md)
 * [Marzo](2016-03/README.md)
