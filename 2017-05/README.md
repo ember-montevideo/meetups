@@ -4,6 +4,8 @@
 * Hora: de 19:30 a 22:00
 * Participantes: 12
 
+![photo](./photo.jpg)
+
 ## Actividades
 
 * Ember Freestyle - Marcelo Dominguez
