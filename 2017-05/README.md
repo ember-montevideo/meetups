@@ -2,7 +2,7 @@
 
 * Fecha: 2 de Mayo de 2017
 * Hora: de 19:30 a 22:00
-* Participantes: 12
+* Participantes: 11
 
 ![photo](./photo.jpg)
 
@@ -75,6 +75,7 @@
 * Laura Santana Nuñez ([@laurasantana](https://github.com/laurasantana))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Marcelo Dominguez ([@marpo60](https://github.com/marpo60))
+* Nicolás Torres ([@ntgussoni](https://github.com/ntgussoni))
 * Santiago Ferreira ([@san650](https://github.com/san650))
 
 ## Agradecimiento
