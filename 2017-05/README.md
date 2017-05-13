@@ -22,47 +22,25 @@
 ### Novedades
 
 * Core
-  * Ember 2.13.0 and 2.14.0.beta.1 Released
-    https://emberjs.com/blog/2017/04/29/ember-2-13-released.html
-  
-  * Add Support for on-the-fly SSL certificates in development (Ember Cli RFC)
-    https://github.com/davewasmer/ember-cli-rfcs/blob/devcert-ssl/active/0000-devcert-ssl.md
+  * [Ember 2.13.0 and 2.14.0.beta.1 Released](https://emberjs.com/blog/2017/04/29/ember-2-13-released.html)
+  * [Add Support for on-the-fly SSL certificates in development (Ember Cli RFC)](https://github.com/davewasmer/ember-cli-rfcs/blob/devcert-ssl/active/0000-devcert-ssl.md)
 
 * Learning
-  * Ember CLI Targets - Robert Jackson
-    http://rwjblue.com/2017/04/21/ember-cli-targets/
-  
-  * Does Glimmer kill Ember? - Robert Jackson
-    http://rwjblue.com/2017/04/26/does-glimmer-kill-ember/
-
-  * Organizing Data Flow with Ember - Devers Talmage
-    https://www.salsify.com/blog/engineering/smart-and-dumb-components-in-ember
-
-  * Enabling Ergonomics and Performance - Robert Jackson
-    http://rwjblue.com/2017/05/01/enabling-debug-code-stripping/
-
-  * TIL: Async custom ember-CP-validations with ember-concurrency - Michael Klein
-    http://blog.firstiwaslike.com/til-async-custom-ember-cp-validations-with-ember-concurrency/
-
-  * Ember Actions: Best Practices - Jordan Vincent
-    https://medium.com/@jordanvincent/ember-actions-best-practices-442be5eed88d
-
-  * Ember Tips: Managing Timeouts and Delays - Karol Galanciak
-    https://karolgalanciak.com/blog/2017/04/30/ember-quick-tips-managing-timeouts-and-delays/
+  * [Ember CLI Targets - Robert Jackson](http://rwjblue.com/2017/04/21/ember-cli-targets/)
+  * [Does Glimmer kill Ember? - Robert Jackson](http://rwjblue.com/2017/04/26/does-glimmer-kill-ember/)
+  * [Organizing Data Flow with Ember - Devers Talmage](https://www.salsify.com/blog/engineering/smart-and-dumb-components-in-ember)
+  * [Enabling Ergonomics and Performance - Robert Jackson](http://rwjblue.com/2017/05/01/enabling-debug-code-stripping/)
+  * [TIL: Async custom ember-CP-validations with ember-concurrency - Michael Klein](http://blog.firstiwaslike.com/til-async-custom-ember-cp-validations-with-ember-concurrency/)
+  * [Ember Actions: Best Practices - Jordan Vincent](https://medium.com/@jordanvincent/ember-actions-best-practices-442be5eed88d)
+  * [Ember Tips: Managing Timeouts and Delays - Karol Galanciak](https://karolgalanciak.com/blog/2017/04/30/ember-quick-tips-managing-timeouts-and-delays/)
 
 * Tools and addons
-  * Vertical Collection - Chris Thoburn
-    https://twitter.com/Runspired/status/857870826808504320
-
-  * ember-state-services - Stefan Penner
-    https://github.com/stefanpenner/ember-state-services
+  * [Vertical Collection - Chris Thoburn](https://twitter.com/Runspired/status/857870826808504320)
+  * [ember-state-services - Stefan Penner](https://github.com/stefanpenner/ember-state-services)
 
 * Offtopic
-  * ember-rideshare - Alex Matchneer
-    https://dunningpostor.com/ember-rideshare/
-
-  * Facebook Relay Modern
-    https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/
+  * [ember-rideshare - Alex Matchneer](https://dunningpostor.com/ember-rideshare/)
+  * [Facebook Relay Modern](https://code.facebook.com/posts/1362748677097871/relay-modern-simpler-faster-more-extensible/)
 
 ## Participantes
 
