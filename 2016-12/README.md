@@ -21,34 +21,23 @@
 ### Novedades
 
 * Core
-  * Ember 2.10 and 2.11 beta released
-    http://emberjs.com/blog/2016/11/30/ember-2-10-released.html
+  * [Ember 2.10 and 2.11 beta released](http://emberjs.com/blog/2016/11/30/ember-2-10-released.html)
 
 * Learning
-  * ember-engines.com - Trent Willis
-    http://ember-engines.com/
-  * Tomster and Travis, sitting in a tree: Ember at Travis CI
-    https://blog.travis-ci.com/2016-11-28-ember-at-travis
-  * Upgrade guide to Broccoli 1.0 - Jo Liss
-    https://twitter.com/jo_liss/status/804457289297969152
-  * Lockfiles should be commited on all projects - Jame Kyle
-    https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all
+  * [ember-engines.com - Trent Willis](http://ember-engines.com/)
+  * [Tomster and Travis, sitting in a tree: Ember at Travis CI](https://blog.travis-ci.com/2016-11-28-ember-at-travis)
+  * [Upgrade guide to Broccoli 1.0 - Jo Liss](https://twitter.com/jo_liss/status/804457289297969152)
+  * [Lockfiles should be commited on all projects - Jame Kyle](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all)
 
 * Tools and addons
-  * ember-required-properties - Echobind
-    https://github.com/echobind/ember-required-properties
-  * JSONAPI::Resources guides
-    http://jsonapi-resources.com
-  * date-fns
-    https://twitter.com/silvenon/status/804946772690923520
+  * [ember-required-properties - Echobind](https://github.com/echobind/ember-required-properties)
+  * [JSONAPI::Resources guides](http://jsonapi-resources.com)
+  * [date-fns](https://twitter.com/silvenon/status/804946772690923520)
 
 * Offtopic
-  * The road to native web components - Mike North
-    https://mike.works/instructor/mike/talks/the-road-to-native-web-components-d50963f
-  * Installing web apps on phones (for real)
-    https://joreteg.com/blog/installing-web-apps-for-real
-  * Custom elements that work anywhere - Rob Dodson
-    https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48
+  * [The road to native web components - Mike North](https://mike.works/instructor/mike/talks/the-road-to-native-web-components-d50963f)
+  * [Installing web apps on phones (for real)](https://joreteg.com/blog/installing-web-apps-for-real)
+  * [Custom elements that work anywhere - Rob Dodson](https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48)
 
 ## Participantes
 
