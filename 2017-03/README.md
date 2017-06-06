@@ -51,7 +51,7 @@
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Gabriel Chertok ([@cherta](https://github.com/cherta))
-* Humberto Llauradó Falcó
+* Humberto Llauradó Falcó [(@hllaurado)](https://github.com/hllaurado))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))
 * Julio Barrios ([@jubar](https://github.com/jubar))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
