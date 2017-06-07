@@ -14,7 +14,7 @@
 
 ### Recursos
 
-* [Mirage 0.3](http://www.ember-cli-mirage.com/blog/2017/01/09/0-3-0-beta-series/)
+* [Mirage 0.3](https://github.com/jubar/demo-mirage-03)
 
 ### Novedades
 
