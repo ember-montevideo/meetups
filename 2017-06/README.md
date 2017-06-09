@@ -55,7 +55,7 @@
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Gabriel Camargo ([@gab-cam](https://github.com/gab-cam))
 * Humberto Llauradó Falcó [(@hllaurado)](https://github.com/hllaurado))
-* Ignacio Martinez
+* Ignacio Martinez ([@imartinezingsw](https://github.com/imartinezingsw))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))
 * Julio Barrios ([@jubar](https://github.com/jubar))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
