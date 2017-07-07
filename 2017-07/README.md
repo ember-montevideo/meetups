@@ -1,4 +1,4 @@
-# Junio 2017
+# Julio 2017
 
 * Fecha: 3 de Julio de 2017
 * Hora: de 19:30 a 22:00
@@ -59,8 +59,8 @@
 ## Participantes
 
 * Eloísa da Silva ([@edasilva](https://github.com/edasilva))
-* Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Emilio Cristalli ([@EmilioCristalli](https://github.com/EmilioCristalli))
+* Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Gabriel Chertok ([@cherta](https://github.com/cherta))
 * Humberto Llauradó Falcó [(@hllaurado)](https://github.com/hllaurado))
 * Juan Azambuja ([@juanazam](https://github.com/juanazam))
