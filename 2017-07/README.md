@@ -54,7 +54,7 @@
 
 * Offtopic
   * [Customer Convo: Dan Gebhardt, Cerebris](https://twitter.com/npmjs/status/881200742551486466)
-  * [Apple overhauls iTunes website](https://9to5mac.com/2017/06/06/apple-music-preview-website/)aiqw q cv
+  * [Apple overhauls iTunes website](https://9to5mac.com/2017/06/06/apple-music-preview-website/)
 
 ## Participantes
 
