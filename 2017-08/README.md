@@ -1,8 +1,8 @@
 # Agosto 2017
 
-* Fecha: 7 de Julio de 2017
+* Fecha: 7 de Agosto de 2017
 * Hora: de 19:30 a 22:00
-* Participantes: XX
+* Participantes: 11
 
 ![photo](./photo.jpg)
 
@@ -10,10 +10,12 @@
 
 * Building Comunities - Gabriel Chertok
 * Elige tu propia aventura - Santiago Ferreira
+* Freezes tab with Ember Inspector - Julio Barrios
 * Noticias del mundo ember - Luis Ferreira
 
 ### Recursos
 * [Diapositivas de la charla Building Comunities](https://www.slideshare.net/cherta/building-communities-78791307)
+* [Freezes tab with Ember Inspector](https://github.com/emberjs/ember-inspector/issues/690)
 
 ### Novedades
 
@@ -55,7 +57,9 @@
 * Ernesto Cruz ([@ercpereda](https://github.com/ercpereda))
 * Federico Kauffman ([@fedekau](https://github.com/fedekau))
 * Gabriel Chertok ([@cherta](https://github.com/cherta))
+* José Señaris ([@pepesenaris](https://github.com/pepesenaris))
 * Julio Barrios ([@jubar](https://github.com/jubar))
+* Laura Santana ([@laurasantana](https://github.com/laurasantana))
 * Luis Ferreira ([@hidnasio](https://github.com/hidnasio))
 * Nicolás Torres ([@ntgussoni](https://github.com/ntgussoni))
 * Santiago Ferreira ([@san650](https://github.com/san650))
