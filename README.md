@@ -12,6 +12,8 @@ Algunos links útiles:
 
 ### 2017
 
+* [Agosto](2017-08/README.md)
+* [Julio](2017-07/README.md)
 * [Junio](2017-06/README.md)
 * [Mayo](2017-05/README.md)
 * [Abril](2017-04/README.md)
